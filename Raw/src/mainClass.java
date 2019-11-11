@@ -5,7 +5,7 @@ public class mainClass {
 	public static void main(String[] args) {
 		
 		
-		Operation op = new Operation();
+		Expression op = new Expression();
 		
 		op.evaluate("a+b*(c^d-e)^(f+g*h)-i");
 		op.showTree();

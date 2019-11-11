@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class Operation {
+public class Expression {
 	
 	private String postfix;
 	private Node head;
